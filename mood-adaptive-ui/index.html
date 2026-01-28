@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mood Adaptive UI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Background blobs -->
+  <div class="blob blob1"></div>
+  <div class="blob blob2"></div>
+  <div class="blob blob3"></div>
+
+  <!-- Glass card -->
+  <div class="glass-card">
+    <h1>Mood-Adaptive UI</h1>
+    <p id="message">How are you feeling?</p>
+
+    <div class="buttons">
+      <button onclick="setMood('happy')">😊 Happy</button>
+      <button onclick="setMood('sad')">🌙 Sad</button>
+      <button onclick="setMood('stressed')">🔥 Stressed</button>
+      <button onclick="setMood('focused')">🎯 Focused</button>
+    </div>
+
+    <textarea id="moodInput" placeholder="Type here… your typing speed decides your mood"></textarea>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
